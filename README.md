@@ -4,7 +4,7 @@
 - Was only a small set of data so easy just to do quickly
 - while finding an automating solution on google, found no point in using if I couldnt understand it
 - automate what can be tedious and repated to make things flow faster, like counting the letters in one long string can be done with commands
-
+- Hybrid approach - some can be automate and some task can be done manually 
 
 #### to show the letters count in a file
 > wc -m filenName.txt 
